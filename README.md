@@ -1,6 +1,6 @@
 ## How secure is our solution
 
-GitHub is taking security very seriously as it protects the assets of more than more than 70000 companies and the majority of all Open Source projects.
+GitHub is taking security very seriously as it protects the assets of more than 70000 companies and the majority of all Open Source projects.
 
 It has [recently been classified](https://pokeinthe.io/2016/04/15/state-of-security-alexa-one-top-million-2016-04/) with a security A+ rating by the Mozilla Observatory which only applied to .003% of the top 1 million sites.
 
