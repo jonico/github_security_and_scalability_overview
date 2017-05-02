@@ -14,7 +14,7 @@ GitHub Enterprise security features in a nutshell are shown on [https://enterpri
 
 GitHub Security best practices are shown in this [blog post](https://github.com/blog/2077-github-enterprise-security-best-practices).
 
-Finally, GitHub is running a large [**Bug Bounty program**](https://bounty.github.com/), rewarding anybody finding security vulnerabilities
+Last but not least, GitHub is running a large [**Bug Bounty program**](https://bounty.github.com/), rewarding anybody finding security vulnerabilities.
 
 Some highlights (not common at most of our competitors):
 
