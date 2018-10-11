@@ -28,6 +28,8 @@ Some highlights (not common at most of our competitors):
 
 ![image alt text](image_2.png)
 
+* Ability to use a central PKI to issue and validate X.509 certificates for S/MIME Git commit signing
+
 * 2 factor authentication including hardware security keys (FIDO U2F)
 
 ![image alt text](image_3.png)
